@@ -16,7 +16,7 @@ It demonstrates front-end development skills including layout design, responsive
 - Responsive Amazon-style homepage
 - Multiple pages with consistent styling
 - Navigation bar, hero section, product boxes, and footer
-- Built with only **HTML5** and **CSS3** (no JavaScript used)
+- Built with only **HTML** and **CSS** (no JavaScript used)
 
 ## 🚀 How to Run
 1. Clone this repository:
