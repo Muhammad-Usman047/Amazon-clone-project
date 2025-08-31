@@ -1,0 +1,31 @@
+.hero-sec1{
+    height: 1000px;
+
+}
+
+select{
+    background-color: #007185;
+}
+select div{
+    color: white;
+}
+.box1{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    height: 230px;
+    width: 350px;
+    margin: 20px 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+@media(min-width: 300px) and  (max-width: 800px){
+    .hero-sec1{
+        height: 100%;
+    }
+    .panel02{
+        height: 40px;
+    }
+    .panel02 a{
+        font-size: 50%;
+    }
+}
